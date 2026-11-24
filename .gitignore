@@ -1,0 +1,21 @@
+# Secrets & Environment (ห้ามส่งขึ้น GitHub เด็ดขาด!)
+.env
+.env.*
+*service-account*.json
+*credentials*.json
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# JavaScript / Node.js
+node_modules/
+dist/
